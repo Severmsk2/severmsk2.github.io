@@ -1,4 +1,4 @@
 # Сергей Алкександров
 Мои домашние задания
 
-[Урок 1] (https://severmsk2.github.io/lesson1/ "Первый")
+[Урок 1](https://severmsk2.github.io/lesson1/ "Первый")
